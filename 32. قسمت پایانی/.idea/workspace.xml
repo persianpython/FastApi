@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8883adeb-5136-4caa-bf45-8e95bc5f7667" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="editable-svg" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="25hLcHnaxdm0DJbjfTR7YcBdf4A" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/FastApi/Part_32/Files",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Youtube\FastApi\Part_30\Files" />
+      <recent name="D:\Youtube\FastApi\Part_28\Files\db" />
+      <recent name="D:\Youtube\FastApi\Part_22\Files\test" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Youtube\FastApi\Part_28\Files" />
+      <recent name="D:\Youtube\FastApi\Part_28\Files\diagrams" />
+      <recent name="D:\Youtube\FastApi\Part_23\Files\files" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.second">
+    <configuration name="blog_post" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Files" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/router" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/router/blog_post.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Files" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="second" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Files" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/t" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/t/second.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.second" />
+        <item itemvalue="Python.blog_post" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8883adeb-5136-4caa-bf45-8e95bc5f7667" name="Changes" comment="" />
+      <created>1645974453174</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1645974453174</updated>
+      <workItem from="1645974454747" duration="2181000" />
+      <workItem from="1646303145351" duration="75000" />
+      <workItem from="1646346391353" duration="2407000" />
+      <workItem from="1646933195182" duration="3886000" />
+      <workItem from="1646938593754" duration="1510000" />
+      <workItem from="1647015972266" duration="191000" />
+      <workItem from="1647110537171" duration="1100000" />
+      <workItem from="1648046266226" duration="21000" />
+      <workItem from="1648228664343" duration="949000" />
+      <workItem from="1648406062655" duration="580000" />
+      <workItem from="1649025164747" duration="1253000" />
+      <workItem from="1649442077547" duration="997000" />
+      <workItem from="1650040037309" duration="1309000" />
+      <workItem from="1650285601043" duration="229000" />
+      <workItem from="1650326137684" duration="1105000" />
+      <workItem from="1650333913909" duration="947000" />
+      <workItem from="1651946568501" duration="1536000" />
+      <workItem from="1652014944479" duration="8000" />
+      <workItem from="1652277389296" duration="938000" />
+      <workItem from="1652613427082" duration="420000" />
+      <workItem from="1653138440694" duration="2632000" />
+      <workItem from="1653141993922" duration="902000" />
+      <workItem from="1653241267783" duration="1525000" />
+      <workItem from="1653332592041" duration="2205000" />
+      <workItem from="1653380501989" duration="25000" />
+      <workItem from="1653413702456" duration="986000" />
+      <workItem from="1653415631439" duration="21000" />
+      <workItem from="1653847626599" duration="1021000" />
+      <workItem from="1653902558057" duration="10000" />
+      <workItem from="1654014035924" duration="1876000" />
+      <workItem from="1654086648419" duration="1654000" />
+      <workItem from="1654088433830" duration="934000" />
+      <workItem from="1654161371244" duration="4426000" />
+      <workItem from="1654165956789" duration="1240000" />
+      <workItem from="1654700715282" duration="3160000" />
+      <workItem from="1654869857623" duration="1253000" />
+      <workItem from="1654871248246" duration="917000" />
+      <workItem from="1654974302111" duration="1533000" />
+      <workItem from="1655571290157" duration="533000" />
+      <workItem from="1655571871213" duration="1677000" />
+      <workItem from="1655636169483" duration="763000" />
+      <workItem from="1656430741791" duration="710000" />
+      <workItem from="1656431468250" duration="1571000" />
+      <workItem from="1657376730210" duration="103000" />
+      <workItem from="1657376842792" duration="1261000" />
+      <workItem from="1657570193311" duration="423000" />
+      <workItem from="1657570869887" duration="11000" />
+      <workItem from="1657571099009" duration="6000" />
+      <workItem from="1657571346067" duration="1416000" />
+      <workItem from="1657884524873" duration="3786000" />
+      <workItem from="1657889419511" duration="2191000" />
+      <workItem from="1657899850307" duration="20000" />
+      <workItem from="1658874977741" duration="3793000" />
+      <workItem from="1660062156284" duration="2026000" />
+      <workItem from="1660495959607" duration="604000" />
+      <workItem from="1676669799559" duration="640000" />
+      <workItem from="1676742338409" duration="2921000" />
+      <workItem from="1676746955055" duration="2030000" />
+      <workItem from="1676999488736" duration="671000" />
+      <workItem from="1691952222696" duration="3155000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="requirements.txt" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/main_py$second.coverage" NAME="second Coverage Results" MODIFIED="1655636236043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/t" />
+    <SUITE FILE_PATH="coverage/main_py$blog_post.coverage" NAME="blog_post Coverage Results" MODIFIED="1650326258108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/router" />
+    <SUITE FILE_PATH="coverage/Files$main.coverage" NAME="main Coverage Results" MODIFIED="1645975727666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
